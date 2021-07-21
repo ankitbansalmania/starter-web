@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-This is an example to showing the introduction
+This is an example to showing the introduction of Stash
 
 ## Purpose
 
