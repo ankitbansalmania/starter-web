@@ -15,5 +15,7 @@ This is an example to showing the deployment
 ## How to contribute
 This is an example to showing how to contribute
 
+## Copyright
+
 ## End of File
 
