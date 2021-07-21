@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ankit Bansal ankitbansalmania@gmail.com
 
 # THANKS
 
