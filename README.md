@@ -10,7 +10,7 @@ This is an example to showing the introduction
 Sample website with plenty of files for demos
 
 ## Deployment
-This is an example to showing the deployment
+This is an example to showing the deployment for myfeature branch
 
 ## How to contribute
 This is an example to showing how to contribute
