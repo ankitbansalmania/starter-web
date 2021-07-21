@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 This is an example to showing the deployment for myfeature branch
 
 ## How to contribute
-This is an example to showing how to contribute
+This is an example to showing how to contribute towards file
 
 ## Copyright
 This is an copyright notice 2021-22
