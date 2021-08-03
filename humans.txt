@@ -14,4 +14,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
-	Angular 10,9,8
+	Angular 10,9,8,7
